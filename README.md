@@ -24,7 +24,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 <br>
-Em constante evolução no mundo do frontend. Estudante, mas com visão de tornar-se um ótimo desenvolvedor.
+
 
 
 	
